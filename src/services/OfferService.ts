@@ -11,6 +11,10 @@ const headers = {
 
 export const getOffers = async (): Promise<IOffer> => {
     const offers: IOffer = JSON.parse(JSON.stringify(similarsJson));
+    const similarOffer: IOffer = JSON.parse(JSON.stringify(json));
+
+    offers.items = [...offers.items, ...similarOffer.items];
+
     const categories = offers.items.map((item) => item.category);
     offers.categories = Array.from(
         new Set(categories.map((category) => category.id))
