@@ -1,0 +1,2293 @@
+{
+    "currentPage": 1,
+    "pageSize": 20,
+    "totalResults": 59312,
+    "currentResults": 20,
+    "totalPages": 114,
+    "availableSortingMethods": ["updated-desc"],
+    "sortBy": "updated-desc",
+    "items": [
+        {
+            "id": "e80f3c39c74e0a9747bf8a7dbcdce7",
+            "title": "OFICIAL 1ª Fontanero",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Cornellà de Llobregat",
+            "link": "https://www.infojobs.net/cornella-de-llobregat/oficial-1-fontanero/of-ie80f3c39c74e0a9747bf8a7dbcdce7",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3087,
+                "value": "Fontanería"
+            },
+            "salaryMin": {
+                "id": 1340,
+                "value": "26.000 €"
+            },
+            "salaryMax": {
+                "id": 1350,
+                "value": "28.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 8,
+                "value": "Más de 10 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 30,
+                "value": "Formación Profesional Grado Medio"
+            },
+            "published": "2023-05-16T17:27:58.000Z",
+            "updated": "2023-05-16T17:27:58.000Z",
+            "author": {
+                "id": "98545353525452671111125011194410901159",
+                "name": "Copreman Servicios, S..L.",
+                "uri": "https://www.infojobs.net/copreman-servicios-s..l./em-i98545353525452671111125011194410901159"
+            },
+            "requirementMin": "Carnet de conducir Formación profesional grado medio como mínimo 10 años de experiencia realizando trabajos de fontanería",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "3f1352c882481387fe7a44f09a70e5",
+            "title": "Técnico en Prevención de Riesgos Laborales (H/M) | Planta Fotovoltaica",
+            "province": {
+                "id": 11,
+                "value": "Cáceres"
+            },
+            "city": "Cáceres",
+            "link": "https://www.infojobs.net/caceres/tecnico-prevencion-riesgos-laborales-h-m-planta-fotovoltaica/of-i3f1352c882481387fe7a44f09a70e5",
+            "category": {
+                "id": 80,
+                "value": "Ingenieros y técnicos"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3132,
+                "value": "Energias Renovables"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "published": "2023-04-28T07:33:38.000Z",
+            "updated": "2023-05-16T17:27:22.000Z",
+            "author": {
+                "id": "66515351525350738082795007035854804536",
+                "name": "IPROCEL",
+                "uri": "https://www.infojobs.net/iprocel/em-i66515351525350738082795007035854804536"
+            },
+            "requirementMin": "-Experiencia de un año como técnico en prevención de riesgos laborales en proyectos de obra industrial. Un plus, tener experiencia en proyectos relacionados con el campo de las energías renovables.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "07b6428e774aa794b1454a3512a5ed",
+            "title": "Técnico de Estudios (H/M) | Redes eléctricas MT/BT",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Sevilla",
+            "link": "https://www.infojobs.net/sevilla/tecnico-estudios-h-m-redes-electricas-mt-bt/of-i07b6428e774aa794b1454a3512a5ed",
+            "category": {
+                "id": 80,
+                "value": "Ingenieros y técnicos"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3049,
+                "value": "Industrial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-05T11:11:07.000Z",
+            "updated": "2023-05-16T17:27:03.000Z",
+            "author": {
+                "id": "66515351525350738082795007035854804536",
+                "name": "IPROCEL",
+                "uri": "https://www.infojobs.net/iprocel/em-i66515351525350738082795007035854804536"
+            },
+            "requirementMin": "-Deseable Formación como FP Técnico Superior rama eléctrica y/o electrónica. - Al menos 1 año de experiencia realizando estudios técnicos para Endesa en redes eléctricas de MT/BT. - Experiencia en el manejo de los sistemas de Endesa (Valoraciones VAS, CUATRO/SalesForce). -Disponibilidad para incorporación inmediata.",
+            "bold": false,
+            "applications": "0",
+            "urgent": true
+        },
+        {
+            "id": "575c4efdd545dabcbdabd0b02da250",
+            "title": "Ingeniero (a) / arquitecto (a) Microservicios y CLOUD",
+            "province": {
+                "id": 28,
+                "value": "A Coruña"
+            },
+            "city": "Santiago de Compostela",
+            "link": "https://www.infojobs.net/santiago-de-compostela/ingeniero-arquitecto-microservicios-cloud/of-i575c4efdd545dabcbdabd0b02da250",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3107,
+                "value": "Arquitectura"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:26:34.000Z",
+            "updated": "2023-05-16T17:26:34.000Z",
+            "author": {
+                "id": "727049524530003071644055355634",
+                "name": "Ozona Tech",
+                "uri": "https://www.infojobs.net/ozona-tech/em-i727049524530003071644055355634"
+            },
+            "requirementMin": "¿Cuáles son los requisitos mínimos?",
+            "bold": false,
+            "applications": "73",
+            "urgent": false
+        },
+        {
+            "id": "0f6dd5bb4247f7ac34472df7f32625",
+            "title": "Technical Support Manager",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Martorell",
+            "link": "https://www.infojobs.net/martorell/technical-support-manager/of-i0f6dd5bb4247f7ac34472df7f32625",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3119,
+                "value": "Comercial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:24:55.000Z",
+            "updated": "2023-05-16T17:24:55.000Z",
+            "author": {
+                "id": "98545257555449115101113009236493000867",
+                "name": "setesca",
+                "uri": "https://setesca.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "2 años de experiencia demostrable en el sector de Telecomunicaciones en entornos WAN/SD-WAN, LAN o VOZ en actividades comerciales o de soporte comercial.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "c033259de84bb18d098b962419af57",
+            "title": "Vue.JS & Nuxt.JS FrontEnd Developer (for a German IT Company)- Full Remote. 100% Teletrabajo",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/vue.js-nuxt.js-frontend-developer-for-german-it-company-full-remote.-100-teletrabajo/of-ic033259de84bb18d098b962419af57",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3124,
+                "value": "Programación"
+            },
+            "salaryMin": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryMax": {
+                "id": 460,
+                "value": "56.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "published": "2023-05-16T17:23:23.000Z",
+            "updated": "2023-05-16T17:23:23.000Z",
+            "author": {
+                "id": "48565757555910865788472011093930213263",
+                "name": "AFB Consultoría de Talento",
+                "uri": "https://www.infojobs.net/afb-consultoria-de-talento/em-i48565757555910865788472011093930213263"
+            },
+            "requirementMin": "-You have a BS in Computer Science, Software Engineering, a related academic area.",
+            "bold": true,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "177f778c024bd8a6d870f89e2b364e",
+            "title": "Técnico de Sistemas",
+            "province": {
+                "id": 37,
+                "value": "Navarra"
+            },
+            "city": "Pamplona/Iruña",
+            "link": "https://www.infojobs.net/pamplona-iruna/tecnico-sistemas/of-i177f778c024bd8a6d870f89e2b364e",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3113,
+                "value": "Sistemas"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:22:56.000Z",
+            "updated": "2023-05-16T17:22:56.000Z",
+            "author": {
+                "id": "98554952524653836584698022116934900335",
+                "name": "SATELIT IMPROVING YOUR WORK SL.",
+                "uri": "https://www.infojobs.net/satelit-improving-your-work-sl./em-i98554952524653836584698022116934900335"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "f89b4f15544f0783e9cb57657f96bd",
+            "title": "Desarrolladores Angular 12+ y con  Node.JS---Remoto",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Sevilla",
+            "link": "https://www.infojobs.net/sevilla/desarrolladores-angular-12-con-node.js-remoto/of-if89b4f15544f0783e9cb57657f96bd",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3124,
+                "value": "Programación"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 1350,
+                "value": "28.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:19:14.000Z",
+            "updated": "2023-05-16T17:19:14.000Z",
+            "author": {
+                "id": "968749524526202550903215154841",
+                "name": "METRICA CONSULTING",
+                "uri": "https://metrica.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Como trabajamos bajo parámetros de calidad es necesario tener experiencia con: Integración Continua: GIT- Jenkins Pruebas unitarias: JUnit-Mokito Metodologia Scrum",
+            "bold": false,
+            "applications": "10",
+            "urgent": false
+        },
+        {
+            "id": "d11023f40b409cb191b1341c9d60eb",
+            "title": "Comercial teleoperador/a",
+            "province": {
+                "id": 53,
+                "value": "Zaragoza"
+            },
+            "city": "Zaragoza",
+            "link": "https://www.infojobs.net/zaragoza/comercial-teleoperador/of-id11023f40b409cb191b1341c9d60eb",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3122,
+                "value": "Televenta y marketing telefónico"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:17:50.000Z",
+            "updated": "2023-05-16T17:17:50.000Z",
+            "author": {
+                "id": "d8ab1d8a-74cf-41f3-9177-e2dfdd84b240",
+                "name": "Empresa del sector televenta",
+                "uri": "https://www.infojobs.net/empresa-del-sector-televenta/em-id8ab1d8a-74cf-41f3-9177-e2dfdd84b240"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "10",
+            "urgent": false
+        },
+        {
+            "id": "a39562487c4fa0b6e5e9b46a39aa6a",
+            "title": "Coordinador de personal - temporal",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/coordinador-personal-temporal/of-ia39562487c4fa0b6e5e9b46a39aa6a",
+            "category": {
+                "id": 130,
+                "value": "Recursos humanos"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3096,
+                "value": "Relaciones laborales"
+            },
+            "salaryMin": {
+                "id": 1340,
+                "value": "26.000 €"
+            },
+            "salaryMax": {
+                "id": 1360,
+                "value": "29.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "published": "2023-05-16T17:17:04.000Z",
+            "updated": "2023-05-16T17:17:04.000Z",
+            "author": {
+                "id": "3e366fffa24544b529090e435717e0",
+                "name": "LHH Recruitment Solutions",
+                "uri": "https://lhhrecruitmentsolutions.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Grado de Relaciones Laborales, Derecho",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "e40db004e747e39f7dcd58fea13dc1",
+            "title": "Shop Manager - ECI SABADELL",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Sabadell",
+            "link": "https://www.infojobs.net/sabadell/shop-manager-eci-sabadell/of-ie40db004e747e39f7dcd58fea13dc1",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "published": "2023-05-16T17:16:29.000Z",
+            "updated": "2023-05-16T17:16:29.000Z",
+            "author": {
+                "id": "98565150555557806578680018314804113786",
+                "name": "PANDORA JEWELLERY SPAIN",
+                "uri": "https://pandora.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "-Entre 4-5 años de experiencia gestionando equipos en tienda (4-6 personas). - Análisis de indicadores y puesta en marcha de planes de acción. - Sólido conocimiento de la operativa de tienda. - Elaboración de reportes comerciales.",
+            "bold": false,
+            "applications": "19",
+            "urgent": false
+        },
+        {
+            "id": "46964bf736484c9b2ae33e8e920253",
+            "title": "Product Manager automoción  ( H/M/X)",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/product-manager-automocion-h-m-x/of-i46964bf736484c9b2ae33e8e920253",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3000,
+                "value": "Administración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "published": "2023-05-16T17:15:00.000Z",
+            "updated": "2023-05-16T17:15:00.000Z",
+            "author": {
+                "id": "3b734e177e4839b99e55ff302d7a00",
+                "name": "Manpower Business Professionals",
+                "uri": "https://manpower.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "ef445ec7ca40969996a6918e178689",
+            "title": "Atención al cliente + Administrativo de Gestión de Pedidos",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Alcobendas",
+            "link": "https://www.infojobs.net/alcobendas/atencion-al-cliente-administrativo-gestion-pedidos/of-ief445ec7ca40969996a6918e178689",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 265,
+                "value": "21.000 €"
+            },
+            "salaryMax": {
+                "id": 265,
+                "value": "21.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:13:45.000Z",
+            "updated": "2023-05-16T17:13:45.000Z",
+            "author": {
+                "id": "963456524526202450223214951096",
+                "name": "PAGE PERSONNEL",
+                "uri": "https://pagepersonnel.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Experiencia en Gestión de Pedidos Experiencia en Atención al Cliente Disponibilidad inmediata",
+            "bold": false,
+            "applications": "78",
+            "urgent": false
+        },
+        {
+            "id": "1159b79bf94d71976ed71c1e638429",
+            "title": "Carnicería",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/carniceria/of-i1159b79bf94d71976ed71c1e638429",
+            "category": {
+                "id": 40,
+                "value": "Compras, logística y almacén"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3025,
+                "value": "Distribución y logística"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:13:26.000Z",
+            "updated": "2023-05-16T17:13:26.000Z",
+            "author": {
+                "id": "58b56ae9834e37b36abf3af4771feb",
+                "name": "Makro Tiendas",
+                "uri": "https://makro.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "44f624d70146d8b970b3a755c7ac48",
+            "title": "Dependiente/a",
+            "province": {
+                "id": 49,
+                "value": "Valencia/Val??ncia"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/dependiente/of-i44f624d70146d8b970b3a755c7ac48",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 160,
+                "value": "1.500 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:13:17.000Z",
+            "updated": "2023-05-16T17:13:17.000Z",
+            "author": {
+                "id": "50505456554112074856574023052834801886",
+                "name": "JUAN SANCHEZ JOSE ENRIQUE",
+                "uri": "https://www.infojobs.net/juan-sanchez-jose-enrique/em-i50505456554112074856574023052834801886"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "a32c18fcf048669d42c142c208ca6e",
+            "title": "CAPTADOR/A STAND CENTRO COMERCIAL",
+            "province": {
+                "id": 46,
+                "value": "Santa Cruz de Tenerife"
+            },
+            "city": "Santa Cruz de Tenerife",
+            "link": "https://www.infojobs.net/santa-cruz-de-tenerife/captador-stand-centro-comercial/of-ia32c18fcf048669d42c142c208ca6e",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3120,
+                "value": "Promoción y ferias"
+            },
+            "salaryMin": {
+                "id": 260,
+                "value": "18.000 €"
+            },
+            "salaryMax": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-04-17T15:16:17.000Z",
+            "updated": "2023-05-16T17:13:05.000Z",
+            "author": {
+                "id": "785051424533001871935205051620",
+                "name": "TRATAMIENTO INTEGRAL DEL AGUA HIDROSALUD",
+                "uri": "https://hidrosalud.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "47f946051d41a1a6596775529867ac",
+            "title": "Jefe/a de obra",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/jefe-obra/of-i47f946051d41a1a6596775529867ac",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3058,
+                "value": "Dirección y gestión de obras"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "published": "2023-05-16T17:11:52.000Z",
+            "updated": "2023-05-16T17:11:52.000Z",
+            "author": {
+                "id": "98565651525655697768795023166624400007",
+                "name": "EMDO GUARDIA CONSTRUCCION SL.",
+                "uri": "https://www.infojobs.net/emdo-guardia-construccion-sl./em-i98565651525655697768795023166624400007"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "7a20bb73ea4e21a99b9a67d5e7bd1d",
+            "title": "Camarero/a de Sala - Barcelona - Jornada parcial",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/camarero-sala-barcelona-jornada-parcial/of-i7a20bb73ea4e21a99b9a67d5e7bd1d",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3116,
+                "value": "Restauración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:11:37.000Z",
+            "updated": "2023-05-16T17:11:37.000Z",
+            "author": {
+                "id": "98565553525948701141179017184389205114",
+                "name": "Grosso Napoletano",
+                "uri": "https://grossonapoletano.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "- Muy valorable la experiencia previa en funciones descritas.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "fc6e47be424bde8773f4342d6da4df",
+            "title": "Cajerx - Reponedor/a 25hrs/sem Calpe",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Calpe/Calp",
+            "link": "https://www.infojobs.net/calpe-calp/cajerx-reponedor-25hrs-sem-calpe/of-ifc6e47be424bde8773f4342d6da4df",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:10:48.000Z",
+            "updated": "2023-05-16T17:10:48.000Z",
+            "author": {
+                "id": "489fb987d04affbe4931445a7c966a",
+                "name": "Lidl",
+                "uri": "https://lidl.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "860557051241cb97398cff62902789",
+            "title": "Capataz de obra-montaje de andamios",
+            "province": {
+                "id": 32,
+                "value": "Lugo"
+            },
+            "city": "Outeiro de Rei",
+            "link": "https://www.infojobs.net/outeiro-de-rei/capataz-obra-montaje-andamios/of-i860557051241cb97398cff62902789",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3062,
+                "value": "Oficios de la construcción"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:10:18.000Z",
+            "updated": "2023-05-16T17:10:18.000Z",
+            "author": {
+                "id": "98554850495548651141010010273879218048",
+                "name": "Arestora Consultores S.L.",
+                "uri": "https://www.infojobs.net/arestora-consultores-s.l./em-i98554850495548651141010010273879218048"
+            },
+            "requirementMin": "Experiencia previa de 1 AÑO en GESTIÓN DE EQUIPOS EN OBRA. Se valora tener Curso de PRL (60 horas/altura).",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        }
+    ],
+    "offers": [
+        {
+            "id": "e80f3c39c74e0a9747bf8a7dbcdce7",
+            "title": "OFICIAL 1ª Fontanero",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Cornellà de Llobregat",
+            "link": "https://www.infojobs.net/cornella-de-llobregat/oficial-1-fontanero/of-ie80f3c39c74e0a9747bf8a7dbcdce7",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3087,
+                "value": "Fontanería"
+            },
+            "salaryMin": {
+                "id": 1340,
+                "value": "26.000 €"
+            },
+            "salaryMax": {
+                "id": 1350,
+                "value": "28.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 8,
+                "value": "Más de 10 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 30,
+                "value": "Formación Profesional Grado Medio"
+            },
+            "published": "2023-05-16T17:27:58.000Z",
+            "updated": "2023-05-16T17:27:58.000Z",
+            "author": {
+                "id": "98545353525452671111125011194410901159",
+                "name": "Copreman Servicios, S..L.",
+                "uri": "https://www.infojobs.net/copreman-servicios-s..l./em-i98545353525452671111125011194410901159"
+            },
+            "requirementMin": "Carnet de conducir Formación profesional grado medio como mínimo 10 años de experiencia realizando trabajos de fontanería",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "3f1352c882481387fe7a44f09a70e5",
+            "title": "Técnico en Prevención de Riesgos Laborales (H/M) | Planta Fotovoltaica",
+            "province": {
+                "id": 11,
+                "value": "Cáceres"
+            },
+            "city": "Cáceres",
+            "link": "https://www.infojobs.net/caceres/tecnico-prevencion-riesgos-laborales-h-m-planta-fotovoltaica/of-i3f1352c882481387fe7a44f09a70e5",
+            "category": {
+                "id": 80,
+                "value": "Ingenieros y técnicos"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3132,
+                "value": "Energias Renovables"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "published": "2023-04-28T07:33:38.000Z",
+            "updated": "2023-05-16T17:27:22.000Z",
+            "author": {
+                "id": "66515351525350738082795007035854804536",
+                "name": "IPROCEL",
+                "uri": "https://www.infojobs.net/iprocel/em-i66515351525350738082795007035854804536"
+            },
+            "requirementMin": "-Experiencia de un año como técnico en prevención de riesgos laborales en proyectos de obra industrial. Un plus, tener experiencia en proyectos relacionados con el campo de las energías renovables. -Formación mínima requerida: Técnico Intermedio en riesgos profesionales. -Carnet de conducir tipo B. -Necesario alojamiento en Cáceres. -Disponibilidad para incorporación inmediata.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "07b6428e774aa794b1454a3512a5ed",
+            "title": "Técnico de Estudios (H/M) | Redes eléctricas MT/BT",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Sevilla",
+            "link": "https://www.infojobs.net/sevilla/tecnico-estudios-h-m-redes-electricas-mt-bt/of-i07b6428e774aa794b1454a3512a5ed",
+            "category": {
+                "id": 80,
+                "value": "Ingenieros y técnicos"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3049,
+                "value": "Industrial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-05T11:11:07.000Z",
+            "updated": "2023-05-16T17:27:03.000Z",
+            "author": {
+                "id": "66515351525350738082795007035854804536",
+                "name": "IPROCEL",
+                "uri": "https://www.infojobs.net/iprocel/em-i66515351525350738082795007035854804536"
+            },
+            "requirementMin": "-Deseable Formación como FP Técnico Superior rama eléctrica y/o electrónica. - Al menos 1 año de experiencia realizando estudios técnicos para Endesa en redes eléctricas de MT/BT. - Experiencia en el manejo de los sistemas de Endesa (Valoraciones VAS, CUATRO/SalesForce). -Disponibilidad para incorporación inmediata.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "575c4efdd545dabcbdabd0b02da250",
+            "title": "Ingeniero (a) / arquitecto (a) Microservicios y CLOUD",
+            "province": {
+                "id": 28,
+                "value": "A Coruña"
+            },
+            "city": "Santiago de Compostela",
+            "link": "https://www.infojobs.net/santiago-de-compostela/ingeniero-arquitecto-microservicios-cloud/of-i575c4efdd545dabcbdabd0b02da250",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3107,
+                "value": "Arquitectura"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:26:34.000Z",
+            "updated": "2023-05-16T17:26:34.000Z",
+            "author": {
+                "id": "727049524530003071644055355634",
+                "name": "Ozona Tech",
+                "uri": "https://www.infojobs.net/ozona-tech/em-i727049524530003071644055355634"
+            },
+            "requirementMin": "¿Cuáles son los requisitos mínimos? -> Experiencia con pipelines (preferiblemente Azure Pipelines o Jenkins) -> Scripting (preferiblemente Linux). -> Experiencia en el ciclo de vida de aplicaciones de software (ALM). - Capacidad para analizar retos de clientes y aportar soluciones tecnológicas como migración de arquitecturas monolíticas a microservicios o migraciones de componentes software a cloud. - Buscamos una persona que aporte liderazgo, capacidad para gestionar personas, habilidades de comunicación, identificación de oportunidades y buena interlocución tanto con el equipo como con el cliente.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "0f6dd5bb4247f7ac34472df7f32625",
+            "title": "Technical Support Manager",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Martorell",
+            "link": "https://www.infojobs.net/martorell/technical-support-manager/of-i0f6dd5bb4247f7ac34472df7f32625",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3119,
+                "value": "Comercial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:24:55.000Z",
+            "updated": "2023-05-16T17:24:55.000Z",
+            "author": {
+                "id": "98545257555449115101113009236493000867",
+                "name": "setesca",
+                "uri": "https://setesca.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "2 años de experiencia demostrable en el sector de Telecomunicaciones en entornos WAN/SD-WAN, LAN o VOZ en actividades comerciales o de soporte comercial. Requerimientos Técnicos y Soft Skills Conocimiento en ámbito de telecomunicaciones (LAN/WAN.) Dotes comerciales: - Conocimientos en procesos de venta - Experiencia en negociación - Trabajo en equipo y buena capacidad comunicativa. - Organizado y buena gestión del tiempo. - Disponibilidad para viajar (carnet de conducir y vehículo propio). Requerimientos Académicos/Idiomas Ingeniería técnica Informática, Telecomunicaciones, o formación técnica equivalente. Idioma castellano (hablado y escrito). ·Idioma inglés: nivel medio Skills deseables: Buen conocimiento en herramientas ofimática Excel, Access, PowerBI para automatización de tareas repetitivas. Conocimientos de las herramientas de eComerce (CISCO JUNIPER HUAWEI) Certificación ITIL.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "c033259de84bb18d098b962419af57",
+            "title": "Vue.JS & Nuxt.JS FrontEnd Developer (for a German IT Company)- Full Remote. 100% Teletrabajo",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/vue.js-nuxt.js-frontend-developer-for-german-it-company-full-remote.-100-teletrabajo/of-ic033259de84bb18d098b962419af57",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3124,
+                "value": "Programación"
+            },
+            "salaryMin": {
+                "id": 290,
+                "value": "36.000 €"
+            },
+            "salaryMax": {
+                "id": 460,
+                "value": "56.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "published": "2023-05-16T17:23:23.000Z",
+            "updated": "2023-05-16T17:23:23.000Z",
+            "author": {
+                "id": "48565757555910865788472011093930213263",
+                "name": "AFB Consultoría de Talento",
+                "uri": "https://www.infojobs.net/afb-consultoria-de-talento/em-i48565757555910865788472011093930213263"
+            },
+            "requirementMin": "-You have a BS in Computer Science, Software Engineering, a related academic area. - 2-4+ years of work experience delivering world-class web applications, proficiency experience with REST APIs, front-end performance optimisation. -Expert in markup and styling implementation, using the best of semantic HTML5 and CSS3 * Remarkable JavaScript coding expertise, strong experience with VueJS & NuxtJS -Basic understanding of the relevant protocols like Http & WebSockets -Excellent written communication and documentation abilities in English -Experience working with Vuetify, Buefy or other VueJS based component library -CSS preprocessors like SASS/SCSS -Skills in jQuery, RequireJS (might need to support legacy code), -Understanding, git and git flow. -Some experience in backend development (Java, JSP) could be desirable -Basic understanding of SEO principles -Agile/Scrum experience -A public portfolio of relevant work that you are proud to share -Actually living in European Union",
+            "bold": true,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "177f778c024bd8a6d870f89e2b364e",
+            "title": "Técnico de Sistemas",
+            "province": {
+                "id": 37,
+                "value": "Navarra"
+            },
+            "city": "Pamplona/Iruña",
+            "link": "https://www.infojobs.net/pamplona-iruna/tecnico-sistemas/of-i177f778c024bd8a6d870f89e2b364e",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3113,
+                "value": "Sistemas"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:22:56.000Z",
+            "updated": "2023-05-16T17:22:56.000Z",
+            "author": {
+                "id": "98554952524653836584698022116934900335",
+                "name": "SATELIT IMPROVING YOUR WORK SL.",
+                "uri": "https://www.infojobs.net/satelit-improving-your-work-sl./em-i98554952524653836584698022116934900335"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "f89b4f15544f0783e9cb57657f96bd",
+            "title": "Desarrolladores Angular 12+ y con  Node.JS---Remoto",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Sevilla",
+            "link": "https://www.infojobs.net/sevilla/desarrolladores-angular-12-con-node.js-remoto/of-if89b4f15544f0783e9cb57657f96bd",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3124,
+                "value": "Programación"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 1350,
+                "value": "28.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 60,
+                "value": "Ciclo Formativo Grado Superior"
+            },
+            "published": "2023-05-16T17:19:14.000Z",
+            "updated": "2023-05-16T17:19:14.000Z",
+            "author": {
+                "id": "968749524526202550903215154841",
+                "name": "METRICA CONSULTING",
+                "uri": "https://metrica.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Como trabajamos bajo parámetros de calidad es necesario tener experiencia con: Integración Continua: GIT- Jenkins Pruebas unitarias: JUnit-Mokito Metodologia Scrum",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "d11023f40b409cb191b1341c9d60eb",
+            "title": "Comercial teleoperador/a",
+            "province": {
+                "id": 53,
+                "value": "Zaragoza"
+            },
+            "city": "Zaragoza",
+            "link": "https://www.infojobs.net/zaragoza/comercial-teleoperador/of-id11023f40b409cb191b1341c9d60eb",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3122,
+                "value": "Televenta y marketing telefónico"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:17:50.000Z",
+            "updated": "2023-05-16T17:17:50.000Z",
+            "author": {
+                "id": "d8ab1d8a-74cf-41f3-9177-e2dfdd84b240",
+                "name": "Empresa del sector televenta",
+                "uri": "https://www.infojobs.net/empresa-del-sector-televenta/em-id8ab1d8a-74cf-41f3-9177-e2dfdd84b240"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "a39562487c4fa0b6e5e9b46a39aa6a",
+            "title": "Coordinador de personal - temporal",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/coordinador-personal-temporal/of-ia39562487c4fa0b6e5e9b46a39aa6a",
+            "category": {
+                "id": 130,
+                "value": "Recursos humanos"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3096,
+                "value": "Relaciones laborales"
+            },
+            "salaryMin": {
+                "id": 1340,
+                "value": "26.000 €"
+            },
+            "salaryMax": {
+                "id": 1360,
+                "value": "29.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "published": "2023-05-16T17:17:04.000Z",
+            "updated": "2023-05-16T17:17:04.000Z",
+            "author": {
+                "id": "3e366fffa24544b529090e435717e0",
+                "name": "LHH Recruitment Solutions",
+                "uri": "https://lhhrecruitmentsolutions.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Grado de Relaciones Laborales, Derecho, ADE 1-3 años de experiencia en puesto similar en empresas de servicios de ámbito internacional",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "e40db004e747e39f7dcd58fea13dc1",
+            "title": "Shop Manager - ECI SABADELL",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Sabadell",
+            "link": "https://www.infojobs.net/sabadell/shop-manager-eci-sabadell/of-ie40db004e747e39f7dcd58fea13dc1",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 50,
+                "value": "Bachillerato"
+            },
+            "published": "2023-05-16T17:16:29.000Z",
+            "updated": "2023-05-16T17:16:29.000Z",
+            "author": {
+                "id": "98565150555557806578680018314804113786",
+                "name": "PANDORA JEWELLERY SPAIN",
+                "uri": "https://pandora.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "-Entre 4-5 años de experiencia gestionando equipos en tienda (4-6 personas). - Análisis de indicadores y puesta en marcha de planes de acción. - Sólido conocimiento de la operativa de tienda. - Elaboración de reportes comerciales.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "46964bf736484c9b2ae33e8e920253",
+            "title": "Product Manager automoción  ( H/M/X)",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/product-manager-automocion-h-m-x/of-i46964bf736484c9b2ae33e8e920253",
+            "category": {
+                "id": 10,
+                "value": "Administración de empresas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3000,
+                "value": "Administración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "published": "2023-05-16T17:15:00.000Z",
+            "updated": "2023-05-16T17:15:00.000Z",
+            "author": {
+                "id": "3b734e177e4839b99e55ff302d7a00",
+                "name": "Manpower Business Professionals",
+                "uri": "https://manpower.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "ef445ec7ca40969996a6918e178689",
+            "title": "Atención al cliente + Administrativo de Gestión de Pedidos",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Alcobendas",
+            "link": "https://www.infojobs.net/alcobendas/atencion-al-cliente-administrativo-gestion-pedidos/of-ief445ec7ca40969996a6918e178689",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 265,
+                "value": "21.000 €"
+            },
+            "salaryMax": {
+                "id": 265,
+                "value": "21.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:13:45.000Z",
+            "updated": "2023-05-16T17:13:45.000Z",
+            "author": {
+                "id": "963456524526202450223214951096",
+                "name": "PAGE PERSONNEL",
+                "uri": "https://pagepersonnel.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "Experiencia en Gestión de Pedidos Experiencia en Atención al Cliente Disponibilidad inmediata",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "1159b79bf94d71976ed71c1e638429",
+            "title": "Carnicería",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/carniceria/of-i1159b79bf94d71976ed71c1e638429",
+            "category": {
+                "id": 40,
+                "value": "Compras, logística y almacén"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3025,
+                "value": "Distribución y logística"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:13:26.000Z",
+            "updated": "2023-05-16T17:13:26.000Z",
+            "author": {
+                "id": "58b56ae9834e37b36abf3af4771feb",
+                "name": "Makro Tiendas",
+                "uri": "https://makro.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "44f624d70146d8b970b3a755c7ac48",
+            "title": "Dependiente/a",
+            "province": {
+                "id": 49,
+                "value": "Valencia/Val??ncia"
+            },
+            "city": "Valencia",
+            "link": "https://www.infojobs.net/valencia/dependiente/of-i44f624d70146d8b970b3a755c7ac48",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3118,
+                "value": "Atención al cliente"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 160,
+                "value": "1.500 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:13:17.000Z",
+            "updated": "2023-05-16T17:13:17.000Z",
+            "author": {
+                "id": "50505456554112074856574023052834801886",
+                "name": "JUAN SANCHEZ JOSE ENRIQUE",
+                "uri": "https://www.infojobs.net/juan-sanchez-jose-enrique/em-i50505456554112074856574023052834801886"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "a32c18fcf048669d42c142c208ca6e",
+            "title": "CAPTADOR/A STAND CENTRO COMERCIAL",
+            "province": {
+                "id": 46,
+                "value": "Santa Cruz de Tenerife"
+            },
+            "city": "Santa Cruz de Tenerife",
+            "link": "https://www.infojobs.net/santa-cruz-de-tenerife/captador-stand-centro-comercial/of-ia32c18fcf048669d42c142c208ca6e",
+            "category": {
+                "id": 170,
+                "value": "Atención a clientes"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3120,
+                "value": "Promoción y ferias"
+            },
+            "salaryMin": {
+                "id": 260,
+                "value": "18.000 €"
+            },
+            "salaryMax": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 9,
+                "value": "Intensiva - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-04-17T15:16:17.000Z",
+            "updated": "2023-05-16T17:13:05.000Z",
+            "author": {
+                "id": "785051424533001871935205051620",
+                "name": "TRATAMIENTO INTEGRAL DEL AGUA HIDROSALUD",
+                "uri": "https://hidrosalud.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "47f946051d41a1a6596775529867ac",
+            "title": "Jefe/a de obra",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/jefe-obra/of-i47f946051d41a1a6596775529867ac",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3058,
+                "value": "Dirección y gestión de obras"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "published": "2023-05-16T17:11:52.000Z",
+            "updated": "2023-05-16T17:11:52.000Z",
+            "author": {
+                "id": "98565651525655697768795023166624400007",
+                "name": "EMDO GUARDIA CONSTRUCCION SL.",
+                "uri": "https://www.infojobs.net/emdo-guardia-construccion-sl./em-i98565651525655697768795023166624400007"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "23",
+            "urgent": false
+        },
+        {
+            "id": "7a20bb73ea4e21a99b9a67d5e7bd1d",
+            "title": "Camarero/a de Sala - Barcelona - Jornada parcial",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/camarero-sala-barcelona-jornada-parcial/of-i7a20bb73ea4e21a99b9a67d5e7bd1d",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3116,
+                "value": "Restauración"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "published": "2023-05-16T17:11:37.000Z",
+            "updated": "2023-05-16T17:11:37.000Z",
+            "author": {
+                "id": "98565553525948701141179017184389205114",
+                "name": "Grosso Napoletano",
+                "uri": "https://grossonapoletano.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "- Muy valorable la experiencia previa en funciones descritas. - Actitud positiva con una sonrisa, habilidades de escucha activa y espíritu de equipo. - Disponibilidad para trabajar a turnos.",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "fc6e47be424bde8773f4342d6da4df",
+            "title": "Cajerx - Reponedor/a 25hrs/sem Calpe",
+            "province": {
+                "id": 4,
+                "value": "Alicante/Alacant"
+            },
+            "city": "Calpe/Calp",
+            "link": "https://www.infojobs.net/calpe-calp/cajerx-reponedor-25hrs-sem-calpe/of-ifc6e47be424bde8773f4342d6da4df",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:10:48.000Z",
+            "updated": "2023-05-16T17:10:48.000Z",
+            "author": {
+                "id": "489fb987d04affbe4931445a7c966a",
+                "name": "Lidl",
+                "uri": "https://lidl.ofertas-trabajo.infojobs.net"
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        },
+        {
+            "id": "860557051241cb97398cff62902789",
+            "title": "Capataz de obra-montaje de andamios",
+            "province": {
+                "id": 32,
+                "value": "Lugo"
+            },
+            "city": "Outeiro de Rei",
+            "link": "https://www.infojobs.net/outeiro-de-rei/capataz-obra-montaje-andamios/of-i860557051241cb97398cff62902789",
+            "category": {
+                "id": 90,
+                "value": "Inmobiliario y construcción"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3062,
+                "value": "Oficios de la construcción"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-05-16T17:10:18.000Z",
+            "updated": "2023-05-16T17:10:18.000Z",
+            "author": {
+                "id": "98554850495548651141010010273879218048",
+                "name": "Arestora Consultores S.L.",
+                "uri": "https://www.infojobs.net/arestora-consultores-s.l./em-i98554850495548651141010010273879218048"
+            },
+            "requirementMin": "Experiencia previa de 1 AÑO en GESTIÓN DE EQUIPOS EN OBRA. Se valora tener Curso de PRL (60 horas/altura). CARNET DE CONDUCIR. Disponibilidad para desplazamientos a obras en el centro y norte de Galicia. Residencia en Outeiro de Rey o cercanías. ¿Cumples con los requisitos solicitados? ¡Inscríbete!",
+            "bold": false,
+            "applications": "0",
+            "urgent": false
+        }
+    ]
+}

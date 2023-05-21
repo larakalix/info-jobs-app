@@ -1,0 +1,2106 @@
+{
+    "currentPage": 1,
+    "pageSize": 20,
+    "totalResults": 58811,
+    "currentResults": 20,
+    "totalPages": 114,
+    "availableSortingMethods": ["updated-desc"],
+    "sortBy": "updated-desc",
+    "sinceDate": "ANY",
+    "items": [
+        {
+            "id": "7af9466e75476e9451d8f05c9eaab4",
+            "title": "OPERADOR LOGÍSTICO DE ALMACÉN con PERFIL COMERCIAL",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Málaga",
+            "link": "https://www.infojobs.net/malaga/operador-logistico-almacen-con-perfil-comercial/of-i7af9466e75476e9451d8f05c9eaab4",
+            "category": {
+                "id": 40,
+                "value": "Compras, logística y almacén"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3025,
+                "value": "Distribución y logística"
+            },
+            "salaryMin": {
+                "id": 400,
+                "value": "8.000 €"
+            },
+            "salaryMax": {
+                "id": 1270,
+                "value": "16.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-04-02T01:13:05.000Z",
+            "updated": "2023-05-21T04:30:02.000Z",
+            "author": {
+                "id": "98575054525152669711497007228038900451",
+                "privateId": 2198989496,
+                "name": "Barchis??s Factory, SL",
+                "uri": "https://www.infojobs.net/barchis-s-factory-sl/em-i98575054525152669711497007228038900451",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0a/0abb6701-4ad4-4f58-9596-6dc08cd94809?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM1OTQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wYS8wYWJiNjcwMS00YWQ0LTRmNTgtOTU5Ni02ZGMwOGNkOTQ4MDkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mIht-yA81OXWW0DrRN7JyjXiJ94-Wlr1ULhtYIUHyAjjxR7KS1JT2dG-Ed731G_bffN6ID6NTGFczI9lL565_mdEYaLLShXtCdIL5E3uZawkH47qujX-h-n81vVos5FW1m3-48yfiLC6hrDgQ-67UH-13P-Tp7BGGVcwDz0wqRO5eN5ikjYbxRIAbhJ4wgyhhUo8zKka161XapvYh8c372aX0ZdpL44Y9RFxCDvOWcsGKEKJI2H59tCsEpDK419v8VIxBkHaYgf9uIbULap7MhxSPSWCwiamvBAC3HS9CIF-g-LtKlhBpYfjfBE71fiFhELtcA0QXo0U_p_8t48fnw&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Ordenado, trabajo en equipo, preferiblemente residente en Málaga y sin problemas para viajar en la segunda fase",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "8.000€ - 16.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "debd7d93d149b597738d5da177d09e",
+            "title": "Dependiente/a",
+            "province": {
+                "id": 29,
+                "value": "La Rioja"
+            },
+            "city": "Logroño",
+            "link": "https://www.infojobs.net/logrono/dependiente/of-idebd7d93d149b597738d5da177d09e",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 255,
+                "value": "15.000 €"
+            },
+            "salaryMax": {
+                "id": 1270,
+                "value": "16.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-07T02:35:56.000Z",
+            "updated": "2023-05-21T03:30:02.000Z",
+            "author": {
+                "id": "98525255515656847269325023061779600585",
+                "privateId": 47978505462,
+                "name": "THE GOOD DREAM COMPANY SL.",
+                "uri": "https://www.infojobs.net/the-good-dream-company-sl./em-i98525255515656847269325023061779600585",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "15.000€ - 16.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "5f6352de9d434f9162e6ed52795296",
+            "title": "MECANICO DE MOTOS OFICIAL 1a / JEFE DE TALLER",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Mataró",
+            "link": "https://www.infojobs.net/mataro/mecanico-motos-oficial-1a-jefe-taller/of-i5f6352de9d434f9162e6ed52795296",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1100,
+                "value": "1.400 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-26T00:07:18.000Z",
+            "updated": "2023-05-21T02:30:02.000Z",
+            "author": {
+                "id": "106553524538103350776405555528",
+                "privateId": 1170536570,
+                "name": "MOTOS BOQUET, S.L.",
+                "uri": "https://www.infojobs.net/motos-boquet-s.l./em-i106553524538103350776405555528",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.400€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3c8ca541ef4ddcaa2ec5e3599bd71c",
+            "title": "Electromecánico Mantenimiento Industria Alimentaria.",
+            "province": {
+                "id": 49,
+                "value": "Valencia/Val??ncia"
+            },
+            "city": "Riba-roja de Túria",
+            "link": "https://www.infojobs.net/riba-roja-de-turia/electromecanico-mantenimiento-industria-alimentaria./of-i3c8ca541ef4ddcaa2ec5e3599bd71c",
+            "category": {
+                "id": 30,
+                "value": "Calidad, producción e I+D"
+            },
+            "contractType": {
+                "id": 5,
+                "value": "Otros contratos"
+            },
+            "subcategory": {
+                "id": 3130,
+                "value": "Mantenimiento"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 30,
+                "value": "Formación Profesional Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T23:33:11.000Z",
+            "updated": "2023-05-21T02:00:02.000Z",
+            "author": {
+                "id": "65525450505050726976651007223727200785",
+                "privateId": 1831224310,
+                "name": "HELADOS ESTIU",
+                "uri": "https://www.infojobs.net/helados-estiu/em-i65525450505050726976651007223727200785",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/c8/c89841ae-ae99-419d-a1ce-f5c5cd7293d5?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTgwMDQyNzcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jOC9jODk4NDFhZS1hZTk5LTQxOWQtYTFjZS1mNWM1Y2Q3MjkzZDUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ntr2XOWaUUWXbGdkSIsNKnPoRW4dlofwWfpxc86giuf1Vr0kiCefoNiV51T5hj7d5yphYNAb6JSBnwQl_Gi2bBh4yzJzY_OcLDkmenUOjJBKARjLsfXs-5nFCxm9zZtt6vYFSzHFlXjyqbR6-DYuXUqo2gFXv1bWSREIIMm5KhKTHsiXAdZRX8jSxrGoDyBxmQMOmCj_-vfS3ACHtSj3tISgMb5easRWQ2HTQuhx4c0afxrUeLmkkKw0MRuRLnJNpQNYDfqPMQ27Ecr98N9-3uGYZ2yA4qnIAc093suj5Ou8d19bH9bXoRbB0bwr0V4EamAqYXV4kP855ILkyUSchA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Experiencia de al menos 2 años en industria de alimentación con proceso continuo. Sectores ideales, helados, lácteos, comidas preparadas, alimentos cuarta gama, conservas, masa congelada, panificadoras, etc.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "24.000€ - 30.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "0d3c2783b94b3897d29b45054b46a7",
+            "title": "Administrativo/a",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/administrativo/of-i0d3c2783b94b3897d29b45054b46a7",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-01T22:34:29.000Z",
+            "updated": "2023-05-21T02:00:02.000Z",
+            "author": {
+                "id": "10354555054535570857862023165261301893",
+                "privateId": 47214334148,
+                "name": "FUND ISOCIAL PER A LA INNOVACIO ENL ACCIO SOCIAL",
+                "uri": "https://www.infojobs.net/fund-isocial-per-a-la-innovacio-enl-accio-social/em-i10354555054535570857862023165261301893",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "23.000€ - 24.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "817cd45b204df9b1e545bbd5a3bc77",
+            "title": "Representante comercial",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/representante-comercial/of-i817cd45b204df9b1e545bbd5a3bc77",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-04-01T22:10:48.000Z",
+            "updated": "2023-05-21T01:30:01.000Z",
+            "author": {
+                "id": "98524853575250857869891021027915917439",
+                "privateId": 42714708170,
+                "name": "UNEYSA ORGANIC FOODS SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/uneysa-organic-foods-sociedad-limitada./em-i98524853575250857869891021027915917439",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "ae1477fde64df588e3a4e0abf39f42",
+            "title": "TELEOPERADOR/A  ONG. L-V. TARDES 1500 Euros (fijo + Comisión) - ESTABILIDAD",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/teleoperador-ong.-l-v.-tardes-1500-euros-fijo-comision-estabilidad/of-iae1477fde64df588e3a4e0abf39f42",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3122,
+                "value": "Televenta y marketing telefónico"
+            },
+            "salaryMin": {
+                "id": 140,
+                "value": "900 €"
+            },
+            "salaryMax": {
+                "id": 160,
+                "value": "1.500 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-21T01:05:07.000Z",
+            "updated": "2023-05-21T01:05:07.000Z",
+            "author": {
+                "id": "734e72028f4b1cb569219a78672275",
+                "privateId": 10364098806,
+                "name": "Inmark",
+                "uri": "https://grupoinmark.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/74/74165efb-d72b-4d98-8eb6-c78c0461a0fa?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2ODM4MDc3MzcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy83NC83NDE2NWVmYi1kNzJiLTRkOTgtOGViNi1jNzhjMDQ2MWEwZmEiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bv-eYquVEexm0YaSGJ6dXCk1re0-C74Qg3UbiBawiM2PyB59F5NPxOxQF5gXD6mKFL_Ku_KKVxsT9rKFhtK4fXmzGawLKKkgMblIOXZq_vXZYp4IH1cSJXIFR10p-6vpwQrRzfCTVmImHoz51EgcOKvlMHEVsXquvykDETCFfOEnVrV5Se6SwMPueJIdUEDye_vTHUUjw81KasCzosI6Xd08RzVmGy-YyQ-qzPeli1d5wcEY0O4mzK1yuUb_ZU_cvFpUHaof4xvNinHPyYmlUXStqAyE5Tmyqs2x33ayf9SB1TG8yFOse_Dcaet2Rezhvym1FuSbTRE0f9pjOWSEUw&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "-Ganas de crear un impacto positivo en el mundo -Colaborar con los que más lo necesitan -Don de gentes -Habilidades para la comunicación/conversación. -Energía positiva y buen humor -Persistencia y resistencia",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "900€ - 1.500€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "b998782a1c4032b87b92fa4740136e",
+            "title": "Google Ads & Digital Marketing Specialist",
+            "province": {
+                "id": 6,
+                "value": "Asturias"
+            },
+            "city": "Oviedo",
+            "link": "https://www.infojobs.net/oviedo/google-ads-digital-marketing-specialist/of-ib998782a1c4032b87b92fa4740136e",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3114,
+                "value": "Telecomunicaciones"
+            },
+            "salaryMin": {
+                "id": 285,
+                "value": "33.000 €"
+            },
+            "salaryMax": {
+                "id": 990,
+                "value": "45.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T22:08:50.000Z",
+            "updated": "2023-05-21T00:30:02.000Z",
+            "author": {
+                "id": "98575352545151681059712009035975308084",
+                "privateId": 8162364248,
+                "name": "utopia.AI",
+                "uri": "https://utopia.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/2f/2f6ca1ba-4743-410e-8856-f5c071b87109?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDUxNTI3ODEsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8yZi8yZjZjYTFiYS00NzQzLTQxMGUtODg1Ni1mNWMwNzFiODcxMDkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.bD-89rB4UVFATrl8t9kjumZ845_TUjaj50WNt6MMUyszBhggmIa8oS2X2oGXwtwHF1YhePc1FynzBy0QWgXLpMprgS0pnBe6V_2KO80NTm3-KpWhzeGHPGGfEnUF-KRiQBPBdqTp2ZS0PcDHWfo7K13J8HZyGU-qNpe3QrpPGOBRBuhXilhW0WOTPYOiXF0Yhz1Xx5Ip3-YriIQZlhFj7DgA-DCT6XEV8f7UL0i8TQTO4VUVBbqed6uStWY7K4amHGwkYWaHUMSMtUqmbiwVt5nj20OwkJtRUP_xkB7vVS20StNo8jK9k6U3ZlNjq81Zyn7gEplvcykfOyUVdVHBMQ&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Google Ads Certifications (please provide proof of the following): Google Ads Search Certification Google Ads Display Certification Google Ads Video Certification Google Ads Shopping Certification Google Analytics Individual Qualification Fluent in English (written and spoken) Proficiency in WordPress, Shopify, and other content management systems Strong knowledge of digital marketing strategies and tools, including expertise in Twitter, Instagram, and other relevant platforms Experience in creating websites using artificial intelligence-based tools Excellent analytical and problem-solving skills Ability to work independently and as part of a team",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "33.000€ - 45.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "fa3acfb2274d70b13efc86fb7d53c0",
+            "title": "Experienced Attorney with Expertise in Commercial Law, Data Protection, Competition Law, Telecommunication Market Regulation, and Artificial Intelligence",
+            "province": {
+                "id": 51,
+                "value": "Vizcaya/Bizkaia"
+            },
+            "city": "Bilbao",
+            "link": "https://www.infojobs.net/bilbao/experienced-attorney-with-expertise-in-commercial-law-data-protection-competition-law-telecommunication-market-regulation-and-artificial-intelligence/of-ifa3acfb2274d70b13efc86fb7d53c0",
+            "category": {
+                "id": 100,
+                "value": "Legal"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3066,
+                "value": "Derecho y empresa"
+            },
+            "salaryMin": {
+                "id": 990,
+                "value": "45.000 €"
+            },
+            "salaryMax": {
+                "id": 480,
+                "value": "62.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T22:22:29.000Z",
+            "updated": "2023-05-21T00:30:02.000Z",
+            "author": {
+                "id": "40209fafd0427880da66aba1390949",
+                "privateId": 43259838780,
+                "name": "Aeternal Mentis",
+                "uri": "https://www.infojobs.net/aeternal-mentis/em-i40209fafd0427880da66aba1390949",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/bd/bd8cb061-d84d-426d-81e6-1a041d87a5dd?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NDE1NDU5ODMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9iZC9iZDhjYjA2MS1kODRkLTQyNmQtODFlNi0xYTA0MWQ4N2E1ZGQiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.W8Pofvqk4yn2Ld4iVpgalBtz4n5eWwUYlrPbU9QtMkG1ysgoTxwWk_oVm0_UEUoPiUm0wKKL98irlRpEnFMIyt3-vyJANcgA_cy0fOj7PgOk24MNl6bQrEpdOpHoL75bctgP9HQSLxqBHPwei7hzHgpPx_Dl4oB4UglXAXsW5qKY2MINLNY5vv1Lu8G8FIAOpiicT5zhapP_rIYQ7fIJJmKr9yocW0SxtSoiOK-NyW3kWYCvlBvnum2jP6k9bJ6twaqC0NLrfF0or8vbocKBjASYPRbC8N8LXv89BcQgBTJGRmKaAc4n9lypzqs76fMguFpyeP-ndSTYgELz4dWGyg&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Represent the company in complex commercial litigation, data protection, competition law, telecommunication market regulation, and artificial intelligence cases Provide legal advice to the company on European law and regulations Draft and review contracts, agreements, and other legal documents related to the company's operations and business Develop and implement legal strategies for the company's cases and projects Coordinate and communicate with clients, opposing counsel, and court officials Participate in negotiations, settlements, and alternative dispute resolution",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 31,
+            "executive": true,
+            "salaryDescription": "45.000€ - 62.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "7e8f0566144bc99687a1f2d2ce95bd",
+            "title": "A. Programador/@ Natural/ Adabas",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/a.-programador-natural-adabas/of-i7e8f0566144bc99687a1f2d2ce95bd",
+            "category": {
+                "id": 150,
+                "value": "Informática y telecomunicaciones"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3124,
+                "value": "Programación"
+            },
+            "salaryMin": {
+                "id": 1340,
+                "value": "26.000 €"
+            },
+            "salaryMax": {
+                "id": 275,
+                "value": "27.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-05-21T00:15:35.000Z",
+            "updated": "2023-05-21T00:15:35.000Z",
+            "author": {
+                "id": "969557424526202950933215454792",
+                "privateId": 48391386,
+                "name": "SEREM Consultoría Empresarial",
+                "uri": "https://serem.ofertas-trabajo.infojobs.net",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/5c/5cb8352d-cb38-4e20-9186-5cebabc00fec?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM2MDMsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81Yy81Y2I4MzUyZC1jYjM4LTRlMjAtOTE4Ni01Y2ViYWJjMDBmZWMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.JnL2QyPcNw_1VLdtanuxQdcjkn8LoKZIEso3fnqkK60DMQ5AWB59ITC-Xt9j9En6rPo8Ldnp5Oiez4By_Ge4bCoZVU5gXatBzsslVOHhUUa8mytutmtybitfy7a8mt6FKTxcQ4xYp0TM3hQ-39oyGRYGuGZ8ZhEmq79KdQF5dT659P16GDPSO19ix6lJJTnnkvijrr6HYAEyz8eNcjGQknJQQaSMXjie8Dmw6NXXIk0aUIggsWsE-cfRizs7XYc2_j7LlyB2SLsqQNZtOaDiAA1ZxCybJ-3-cwRytAb1UlQ22YhxvN_L4gn81Mnfq4KOynpgH28bAmUclfhR6VzrJQ&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": true,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Programación Natural/ Adabas, construcción de querys de base de datos, construcción de JCLs. Sus funciones serán toma de requisitos con el cliente u otro analista, análisis de los requisitos, realización de documentación técnica y realización de pruebas funcionales. Perfil funcional, que sepa interpretar las necesidades del cliente. Experiencia al menos 2 /3 años en programación Natural/ Adabas.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "26.000€ - 27.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3513b8026446bf9c06f5f7e6aa9c49",
+            "title": "Responsable de relaciones públicas",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Marbella",
+            "link": "https://www.infojobs.net/marbella/responsable-relaciones-publicas/of-i3513b8026446bf9c06f5f7e6aa9c49",
+            "category": {
+                "id": 110,
+                "value": "Marketing y comunicación"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3073,
+                "value": "RRPP y eventos"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 4,
+                "value": "Parcial - Noche"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-22T22:08:25.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98494854524255654683464023228580000401",
+                "privateId": 47846688948,
+                "name": "A.S. VOGUE SL.",
+                "uri": "https://www.infojobs.net/a.s.-vogue-sl./em-i98494854524255654683464023228580000401",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "66953b55354dc280b70807c414f380",
+            "title": "Instalador Placas Solares",
+            "province": {
+                "id": 45,
+                "value": "Tarragona"
+            },
+            "city": "Reus",
+            "link": "https://www.infojobs.net/reus/instalador-placas-solares/of-i66953b55354dc280b70807c414f380",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3085,
+                "value": "Electricidad"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-06T23:11:55.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98525150505357737883849010145130907709",
+                "privateId": 10051773890,
+                "name": "INSTALTEC REUS S.L.",
+                "uri": "https://www.infojobs.net/instaltec-reus-s.l./em-i98525150505357737883849010145130907709",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "101f8cee4a45c5b35d5e42611e0d1c",
+            "title": "RESPONSABLE/JEFE COMERCIAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/responsable-jefe-comercial/of-i101f8cee4a45c5b35d5e42611e0d1c",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3119,
+                "value": "Comercial"
+            },
+            "salaryMin": {
+                "id": 170,
+                "value": "1.800 €"
+            },
+            "salaryMax": {
+                "id": 1170,
+                "value": "2.500 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-04-01T20:31:44.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98565650495857827979771023115011603672",
+                "privateId": 46826013342,
+                "name": "ROOM RENT CONSULTING SL.",
+                "uri": "https://www.infojobs.net/room-rent-consulting-sl./em-i98565650495857827979771023115011603672",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/30/30baf28c-d1aa-4843-b618-7d8d0116de53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NzQxMjcwNTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8zMC8zMGJhZjI4Yy1kMWFhLTQ4NDMtYjYxOC03ZDhkMDExNmRlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.kMssNpyxcYeswsOU7zLKoB1Iv5DbEvdphss2paiOQTrdgNhU4oy-gvTT2wv5UbnZuYx6lfr9g1n1BnhaEFDPE-an8XwsTH93CHeoYfqjDHuFI4TEKLZgIcRSE6Es9rL0w1KZxEkNPtFUa2NYhvILsKqAi6bbXTAAk_QBzrwEiMPEp8YwTlfD1fpqQjNpgD69_2WYit6uQAV8OMQmeq3OB5WZfCBRU9doMdLDyQvEmUmT1N3YFGFcb30gYqrh1oHv1yu5TKC7IizMGORr3SjdBnoP5hBiV8hrxb9tgJLtEnHqL7XJGQ4b2-R6lh4Zt1bTLUpJf-Kl_LRfEGyNH6uSnA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "1.800€ - 2.500€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "08fc7bee7e4b3f975049f8c5c5f52b",
+            "title": "MARKETING DIGITAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/marketing-digital/of-i08fc7bee7e4b3f975049f8c5c5f52b",
+            "category": {
+                "id": 110,
+                "value": "Marketing y comunicación"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3071,
+                "value": "Marketing"
+            },
+            "salaryMin": {
+                "id": 260,
+                "value": "18.000 €"
+            },
+            "salaryMax": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-22T22:06:55.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "678353524532109380894115454693",
+                "privateId": 402681582,
+                "name": "CASA CALLEJA",
+                "uri": "https://www.infojobs.net/casa-calleja/em-i678353524532109380894115454693",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/52/528775e3-e933-4a18-b75b-54ca9d698308?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM0MTgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81Mi81Mjg3NzVlMy1lOTMzLTRhMTgtYjc1Yi01NGNhOWQ2OTgzMDgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.SPpT9tetbiQVVUJ1zEUZ-E_Of_FHhSgkQH0mHFTd5sEV_OhGgDqnHprEIepU939WBqeLLXmgozNLjsg0tuGg_zC_5vtK7ccja44f8AS8y5JDivoM2dK8IKW0CJJpc3IcQUimul0TsIyuZAqzEYCCvWpePvPehMdDmOforjizi5pbyD82mDTDFc6IDPpsaLuHXwLVxIfIemve7QsTj8FnSCYK87P3aqSP3LPJRQlk2ql7kAqHlLj9Ki9hA3UHDKsBZ-ek6fKb1orMptf2fY5YnYU7iTewNHC3lR3MV2Ddf4ej7eWWyaqE4o892Mz7RsmFF-EGphG4r0HSTjh98g01HQ&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "NIVEL MEDIO DE PS, IA O PROGRAMAS SIMILARES EN EDICION DE IMAGEN CONOCIMIENTOS EDICION VIDEOS",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "18.000€ - 23.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "bff6a25fb24069aab3f883819ad664",
+            "title": "Camarero/a",
+            "province": {
+                "id": 23,
+                "value": "Guipúzcoa/Gipuzkoa"
+            },
+            "city": "Eibar",
+            "link": "https://www.infojobs.net/eibar/camarero/of-ibff6a25fb24069aab3f883819ad664",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3116,
+                "value": "Restauración"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-20T23:47:18.000Z",
+            "updated": "2023-05-20T23:47:18.000Z",
+            "author": {
+                "id": "10155534854525673118224012095010903206",
+                "privateId": 13865852588,
+                "name": "Iván Herrero García Y Otra C.B.",
+                "uri": "https://www.infojobs.net/ivan-herrero-garcia-y-otra-c.b./em-i10155534854525673118224012095010903206",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.300€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d56e44feea4d76959406dce0dc0931",
+            "title": "Esteticista con experiencia",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Coria del Río",
+            "link": "https://www.infojobs.net/coria-del-rio/esteticista-con-experiencia/of-id56e44feea4d76959406dce0dc0931",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryMax": {
+                "id": 150,
+                "value": "1.200 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-13T22:52:52.000Z",
+            "updated": "2023-05-20T23:00:02.000Z",
+            "author": {
+                "id": "52525448565010767697884017115226808135",
+                "privateId": 31059393144,
+                "name": "CENTRO DE ESTÉTICA ZONA RD",
+                "uri": "https://www.infojobs.net/centro-de-estetica-zona-rd/em-i52525448565010767697884017115226808135",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "1.100€ - 1.200€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "8731ef624f43f5a51afcf211648e2b",
+            "title": "CAPTADOR COMERCIAL",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Benalmádena",
+            "link": "https://www.infojobs.net/benalmadena/captador-comercial/of-i8731ef624f43f5a51afcf211648e2b",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 130,
+                "value": "600 €"
+            },
+            "salaryMax": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T21:27:57.000Z",
+            "updated": "2023-05-20T23:00:02.000Z",
+            "author": {
+                "id": "98565651495852678576849022293790904802",
+                "privateId": 45834581498,
+                "name": "CULTURA Y VIDA EN RED SL.",
+                "uri": "https://www.infojobs.net/cultura-y-vida-en-red-sl./em-i98565651495852678576849022293790904802",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Donde gentes. Vehículo propio",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "600€ - 1.100€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        }
+    ],
+    "dataLayer": {
+        "offer_search_page": "1",
+        "offer_search_page_limit": "20",
+        "region_level2_id": "0"
+    },
+    "queryParameters": {
+        "study": [],
+        "province": ["seleccionar"],
+        "salaryPeriod": "seleccionar",
+        "city": [],
+        "contractType": [],
+        "query": "",
+        "experienceMin": [],
+        "category": ["-"],
+        "workDay": [],
+        "teleworking": []
+    },
+    "eligibleForAutomaticAlertCreation": false,
+    "offers": [
+        {
+            "id": "7af9466e75476e9451d8f05c9eaab4",
+            "title": "OPERADOR LOGÍSTICO DE ALMACÉN con PERFIL COMERCIAL",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Málaga",
+            "link": "https://www.infojobs.net/malaga/operador-logistico-almacen-con-perfil-comercial/of-i7af9466e75476e9451d8f05c9eaab4",
+            "category": {
+                "id": 40,
+                "value": "Compras, logística y almacén"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3025,
+                "value": "Distribución y logística"
+            },
+            "salaryMin": {
+                "id": 400,
+                "value": "8.000 €"
+            },
+            "salaryMax": {
+                "id": 1270,
+                "value": "16.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "published": "2023-04-02T01:13:05.000Z",
+            "updated": "2023-05-21T04:30:02.000Z",
+            "author": {
+                "id": "98575054525152669711497007228038900451",
+                "privateId": 2198989496,
+                "name": "Barchis??s Factory, SL",
+                "uri": "https://www.infojobs.net/barchis-s-factory-sl/em-i98575054525152669711497007228038900451",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/0a/0abb6701-4ad4-4f58-9596-6dc08cd94809?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM1OTQsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8wYS8wYWJiNjcwMS00YWQ0LTRmNTgtOTU5Ni02ZGMwOGNkOTQ4MDkiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.mIht-yA81OXWW0DrRN7JyjXiJ94-Wlr1ULhtYIUHyAjjxR7KS1JT2dG-Ed731G_bffN6ID6NTGFczI9lL565_mdEYaLLShXtCdIL5E3uZawkH47qujX-h-n81vVos5FW1m3-48yfiLC6hrDgQ-67UH-13P-Tp7BGGVcwDz0wqRO5eN5ikjYbxRIAbhJ4wgyhhUo8zKka161XapvYh8c372aX0ZdpL44Y9RFxCDvOWcsGKEKJI2H59tCsEpDK419v8VIxBkHaYgf9uIbULap7MhxSPSWCwiamvBAC3HS9CIF-g-LtKlhBpYfjfBE71fiFhELtcA0QXo0U_p_8t48fnw&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Ordenado, trabajo en equipo, preferiblemente residente en Málaga y sin problemas para viajar en la segunda fase",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "8.000€ - 16.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "debd7d93d149b597738d5da177d09e",
+            "title": "Dependiente/a",
+            "province": {
+                "id": 29,
+                "value": "La Rioja"
+            },
+            "city": "Logroño",
+            "link": "https://www.infojobs.net/logrono/dependiente/of-idebd7d93d149b597738d5da177d09e",
+            "category": {
+                "id": 200,
+                "value": "Ventas al detalle"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3121,
+                "value": "Venta al detalle"
+            },
+            "salaryMin": {
+                "id": 255,
+                "value": "15.000 €"
+            },
+            "salaryMax": {
+                "id": 1270,
+                "value": "16.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-07T02:35:56.000Z",
+            "updated": "2023-05-21T03:30:02.000Z",
+            "author": {
+                "id": "98525255515656847269325023061779600585",
+                "privateId": 47978505462,
+                "name": "THE GOOD DREAM COMPANY SL.",
+                "uri": "https://www.infojobs.net/the-good-dream-company-sl./em-i98525255515656847269325023061779600585",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "15.000€ - 16.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "5f6352de9d434f9162e6ed52795296",
+            "title": "MECANICO DE MOTOS OFICIAL 1a / JEFE DE TALLER",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Mataró",
+            "link": "https://www.infojobs.net/mataro/mecanico-motos-oficial-1a-jefe-taller/of-i5f6352de9d434f9162e6ed52795296",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1100,
+                "value": "1.400 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 5,
+                "value": "Más de 5 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-03-26T00:07:18.000Z",
+            "updated": "2023-05-21T02:30:02.000Z",
+            "author": {
+                "id": "106553524538103350776405555528",
+                "privateId": 1170536570,
+                "name": "MOTOS BOQUET, S.L.",
+                "uri": "https://www.infojobs.net/motos-boquet-s.l./em-i106553524538103350776405555528",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.400€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3c8ca541ef4ddcaa2ec5e3599bd71c",
+            "title": "Electromecánico Mantenimiento Industria Alimentaria.",
+            "province": {
+                "id": 49,
+                "value": "Valencia/Val??ncia"
+            },
+            "city": "Riba-roja de Túria",
+            "link": "https://www.infojobs.net/riba-roja-de-turia/electromecanico-mantenimiento-industria-alimentaria./of-i3c8ca541ef4ddcaa2ec5e3599bd71c",
+            "category": {
+                "id": 30,
+                "value": "Calidad, producción e I+D"
+            },
+            "contractType": {
+                "id": 5,
+                "value": "Otros contratos"
+            },
+            "subcategory": {
+                "id": 3130,
+                "value": "Mantenimiento"
+            },
+            "salaryMin": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryMax": {
+                "id": 280,
+                "value": "30.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 30,
+                "value": "Formación Profesional Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T23:33:11.000Z",
+            "updated": "2023-05-21T02:00:02.000Z",
+            "author": {
+                "id": "65525450505050726976651007223727200785",
+                "privateId": 1831224310,
+                "name": "HELADOS ESTIU",
+                "uri": "https://www.infojobs.net/helados-estiu/em-i65525450505050726976651007223727200785",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/c8/c89841ae-ae99-419d-a1ce-f5c5cd7293d5?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1OTgwMDQyNzcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9jOC9jODk4NDFhZS1hZTk5LTQxOWQtYTFjZS1mNWM1Y2Q3MjkzZDUiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.ntr2XOWaUUWXbGdkSIsNKnPoRW4dlofwWfpxc86giuf1Vr0kiCefoNiV51T5hj7d5yphYNAb6JSBnwQl_Gi2bBh4yzJzY_OcLDkmenUOjJBKARjLsfXs-5nFCxm9zZtt6vYFSzHFlXjyqbR6-DYuXUqo2gFXv1bWSREIIMm5KhKTHsiXAdZRX8jSxrGoDyBxmQMOmCj_-vfS3ACHtSj3tISgMb5easRWQ2HTQuhx4c0afxrUeLmkkKw0MRuRLnJNpQNYDfqPMQ27Ecr98N9-3uGYZ2yA4qnIAc093suj5Ou8d19bH9bXoRbB0bwr0V4EamAqYXV4kP855ILkyUSchA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Experiencia de al menos 2 años en industria de alimentación con proceso continuo. Sectores ideales, helados, lácteos, comidas preparadas, alimentos cuarta gama, conservas, masa congelada, panificadoras, etc.",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "24.000€ - 30.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "0d3c2783b94b3897d29b45054b46a7",
+            "title": "Administrativo/a",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/administrativo/of-i0d3c2783b94b3897d29b45054b46a7",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryMax": {
+                "id": 270,
+                "value": "24.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 35,
+                "value": "Ciclo Formativo Grado Medio"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-01T22:34:29.000Z",
+            "updated": "2023-05-21T02:00:02.000Z",
+            "author": {
+                "id": "10354555054535570857862023165261301893",
+                "privateId": 47214334148,
+                "name": "FUND ISOCIAL PER A LA INNOVACIO ENL ACCIO SOCIAL",
+                "uri": "https://www.infojobs.net/fund-isocial-per-a-la-innovacio-enl-accio-social/em-i10354555054535570857862023165261301893",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "23.000€ - 24.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "817cd45b204df9b1e545bbd5a3bc77",
+            "title": "Representante comercial",
+            "province": {
+                "id": 9,
+                "value": "Barcelona"
+            },
+            "city": "Barcelona",
+            "link": "https://www.infojobs.net/barcelona/representante-comercial/of-i817cd45b204df9b1e545bbd5a3bc77",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 10,
+                "value": "Autónomo"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 3,
+                "value": "Al menos 3 años"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-04-01T22:10:48.000Z",
+            "updated": "2023-05-21T01:30:01.000Z",
+            "author": {
+                "id": "98524853575250857869891021027915917439",
+                "privateId": 42714708170,
+                "name": "UNEYSA ORGANIC FOODS SOCIEDAD LIMITADA.",
+                "uri": "https://www.infojobs.net/uneysa-organic-foods-sociedad-limitada./em-i98524853575250857869891021027915917439",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "3513b8026446bf9c06f5f7e6aa9c49",
+            "title": "Responsable de relaciones públicas",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Marbella",
+            "link": "https://www.infojobs.net/marbella/responsable-relaciones-publicas/of-i3513b8026446bf9c06f5f7e6aa9c49",
+            "category": {
+                "id": 110,
+                "value": "Marketing y comunicación"
+            },
+            "contractType": {
+                "id": 8,
+                "value": "De duración determinada"
+            },
+            "subcategory": {
+                "id": 3073,
+                "value": "RRPP y eventos"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 4,
+                "value": "Parcial - Noche"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-22T22:08:25.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98494854524255654683464023228580000401",
+                "privateId": 47846688948,
+                "name": "A.S. VOGUE SL.",
+                "uri": "https://www.infojobs.net/a.s.-vogue-sl./em-i98494854524255654683464023228580000401",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "66953b55354dc280b70807c414f380",
+            "title": "Instalador Placas Solares",
+            "province": {
+                "id": 45,
+                "value": "Tarragona"
+            },
+            "city": "Reus",
+            "link": "https://www.infojobs.net/reus/instalador-placas-solares/of-i66953b55354dc280b70807c414f380",
+            "category": {
+                "id": 120,
+                "value": "Profesiones, artes y oficios"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3085,
+                "value": "Electricidad"
+            },
+            "salaryMin": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryMax": {
+                "id": 0,
+                "value": ""
+            },
+            "salaryPeriod": {
+                "id": 0,
+                "value": ""
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 10,
+                "value": "Sin estudios"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-06T23:11:55.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98525150505357737883849010145130907709",
+                "privateId": 10051773890,
+                "name": "INSTALTEC REUS S.L.",
+                "uri": "https://www.infojobs.net/instaltec-reus-s.l./em-i98525150505357737883849010145130907709",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "Salario no disponible",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "101f8cee4a45c5b35d5e42611e0d1c",
+            "title": "RESPONSABLE/JEFE COMERCIAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/responsable-jefe-comercial/of-i101f8cee4a45c5b35d5e42611e0d1c",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3119,
+                "value": "Comercial"
+            },
+            "salaryMin": {
+                "id": 170,
+                "value": "1.800 €"
+            },
+            "salaryMax": {
+                "id": 1170,
+                "value": "2.500 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 2,
+                "value": "Al menos 1 año"
+            },
+            "workDay": {
+                "id": 10,
+                "value": "Indiferente"
+            },
+            "study": {
+                "id": 125,
+                "value": "Grado"
+            },
+            "teleworking": {
+                "id": 3,
+                "value": "Híbrido"
+            },
+            "published": "2023-04-01T20:31:44.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "98565650495857827979771023115011603672",
+                "privateId": 46826013342,
+                "name": "ROOM RENT CONSULTING SL.",
+                "uri": "https://www.infojobs.net/room-rent-consulting-sl./em-i98565650495857827979771023115011603672",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/30/30baf28c-d1aa-4843-b618-7d8d0116de53?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NzQxMjcwNTcsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy8zMC8zMGJhZjI4Yy1kMWFhLTQ4NDMtYjYxOC03ZDhkMDExNmRlNTMiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.kMssNpyxcYeswsOU7zLKoB1Iv5DbEvdphss2paiOQTrdgNhU4oy-gvTT2wv5UbnZuYx6lfr9g1n1BnhaEFDPE-an8XwsTH93CHeoYfqjDHuFI4TEKLZgIcRSE6Es9rL0w1KZxEkNPtFUa2NYhvILsKqAi6bbXTAAk_QBzrwEiMPEp8YwTlfD1fpqQjNpgD69_2WYit6uQAV8OMQmeq3OB5WZfCBRU9doMdLDyQvEmUmT1N3YFGFcb30gYqrh1oHv1yu5TKC7IizMGORr3SjdBnoP5hBiV8hrxb9tgJLtEnHqL7XJGQ4b2-R6lh4Zt1bTLUpJf-Kl_LRfEGyNH6uSnA&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "1.800€ - 2.500€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "08fc7bee7e4b3f975049f8c5c5f52b",
+            "title": "MARKETING DIGITAL",
+            "province": {
+                "id": 33,
+                "value": "Madrid"
+            },
+            "city": "Madrid",
+            "link": "https://www.infojobs.net/madrid/marketing-digital/of-i08fc7bee7e4b3f975049f8c5c5f52b",
+            "category": {
+                "id": 110,
+                "value": "Marketing y comunicación"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3071,
+                "value": "Marketing"
+            },
+            "salaryMin": {
+                "id": 260,
+                "value": "18.000 €"
+            },
+            "salaryMax": {
+                "id": 1320,
+                "value": "23.000 €"
+            },
+            "salaryPeriod": {
+                "id": 3,
+                "value": "Bruto/año"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 140,
+                "value": "Licenciatura"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-22T22:06:55.000Z",
+            "updated": "2023-05-21T00:00:02.000Z",
+            "author": {
+                "id": "678353524532109380894115454693",
+                "privateId": 402681582,
+                "name": "CASA CALLEJA",
+                "uri": "https://www.infojobs.net/casa-calleja/em-i678353524532109380894115454693",
+                "logoUrl": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/52/528775e3-e933-4a18-b75b-54ca9d698308?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDE0OTM0MTgsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy81Mi81Mjg3NzVlMy1lOTMzLTRhMTgtYjc1Yi01NGNhOWQ2OTgzMDgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.SPpT9tetbiQVVUJ1zEUZ-E_Of_FHhSgkQH0mHFTd5sEV_OhGgDqnHprEIepU939WBqeLLXmgozNLjsg0tuGg_zC_5vtK7ccja44f8AS8y5JDivoM2dK8IKW0CJJpc3IcQUimul0TsIyuZAqzEYCCvWpePvPehMdDmOforjizi5pbyD82mDTDFc6IDPpsaLuHXwLVxIfIemve7QsTj8FnSCYK87P3aqSP3LPJRQlk2ql7kAqHlLj9Ki9hA3UHDKsBZ-ek6fKb1orMptf2fY5YnYU7iTewNHC3lR3MV2Ddf4ej7eWWyaqE4o892Mz7RsmFF-EGphG4r0HSTjh98g01HQ&AccessKeyId=d724d9a53d95a810",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "NIVEL MEDIO DE PS, IA O PROGRAMAS SIMILARES EN EDICION DE IMAGEN CONOCIMIENTOS EDICION VIDEOS",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 22,
+            "executive": false,
+            "salaryDescription": "18.000€ - 23.000€ Bruto/año",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "bff6a25fb24069aab3f883819ad664",
+            "title": "Camarero/a",
+            "province": {
+                "id": 23,
+                "value": "Guipúzcoa/Gipuzkoa"
+            },
+            "city": "Eibar",
+            "link": "https://www.infojobs.net/eibar/camarero/of-ibff6a25fb24069aab3f883819ad664",
+            "category": {
+                "id": 160,
+                "value": "Turismo y restauración"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3116,
+                "value": "Restauración"
+            },
+            "salaryMin": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryMax": {
+                "id": 1090,
+                "value": "1.300 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 5,
+                "value": "Parcial - Indiferente"
+            },
+            "study": {
+                "id": 160,
+                "value": "Otros títulos, certificaciones y carnés"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-20T23:47:18.000Z",
+            "updated": "2023-05-20T23:47:18.000Z",
+            "author": {
+                "id": "10155534854525673118224012095010903206",
+                "privateId": 13865852588,
+                "name": "Iván Herrero García Y Otra C.B.",
+                "uri": "https://www.infojobs.net/ivan-herrero-garcia-y-otra-c.b./em-i10155534854525673118224012095010903206",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 11,
+            "executive": false,
+            "salaryDescription": "1.300€ - 1.300€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "d56e44feea4d76959406dce0dc0931",
+            "title": "Esteticista con experiencia",
+            "province": {
+                "id": 43,
+                "value": "Sevilla"
+            },
+            "city": "Coria del Río",
+            "link": "https://www.infojobs.net/coria-del-rio/esteticista-con-experiencia/of-id56e44feea4d76959406dce0dc0931",
+            "category": {
+                "id": 180,
+                "value": "Otros"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3123,
+                "value": "Sin especificar"
+            },
+            "salaryMin": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryMax": {
+                "id": 150,
+                "value": "1.200 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 6,
+                "value": "Al menos 2 años"
+            },
+            "workDay": {
+                "id": 1,
+                "value": "Completa"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-05-13T22:52:52.000Z",
+            "updated": "2023-05-20T23:00:02.000Z",
+            "author": {
+                "id": "52525448565010767697884017115226808135",
+                "privateId": 31059393144,
+                "name": "CENTRO DE ESTÉTICA ZONA RD",
+                "uri": "https://www.infojobs.net/centro-de-estetica-zona-rd/em-i52525448565010767697884017115226808135",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "1.100€ - 1.200€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        },
+        {
+            "id": "8731ef624f43f5a51afcf211648e2b",
+            "title": "CAPTADOR COMERCIAL",
+            "province": {
+                "id": 34,
+                "value": "Málaga"
+            },
+            "city": "Benalmádena",
+            "link": "https://www.infojobs.net/benalmadena/captador-comercial/of-i8731ef624f43f5a51afcf211648e2b",
+            "category": {
+                "id": 190,
+                "value": "Comercial y ventas"
+            },
+            "contractType": {
+                "id": 1,
+                "value": "Indefinido"
+            },
+            "subcategory": {
+                "id": 3131,
+                "value": "Agente comercial"
+            },
+            "salaryMin": {
+                "id": 130,
+                "value": "600 €"
+            },
+            "salaryMax": {
+                "id": 1080,
+                "value": "1.100 €"
+            },
+            "salaryPeriod": {
+                "id": 2,
+                "value": "Bruto/mes"
+            },
+            "experienceMin": {
+                "id": 1,
+                "value": "No Requerida"
+            },
+            "workDay": {
+                "id": 2,
+                "value": "Parcial - Mañana"
+            },
+            "study": {
+                "id": 20,
+                "value": "Educación Secundaria Obligatoria"
+            },
+            "teleworking": {
+                "id": 1,
+                "value": "Presencial"
+            },
+            "published": "2023-04-15T21:27:57.000Z",
+            "updated": "2023-05-20T23:00:02.000Z",
+            "author": {
+                "id": "98565651495852678576849022293790904802",
+                "privateId": 45834581498,
+                "name": "CULTURA Y VIDA EN RED SL.",
+                "uri": "https://www.infojobs.net/cultura-y-vida-en-red-sl./em-i98565651495852678576849022293790904802",
+                "corporateResponsive": false,
+                "showCorporativeHeader": false
+            },
+            "requirementMin": "Donde gentes. Vehículo propio",
+            "bold": false,
+            "applications": "0",
+            "subSegment": 23,
+            "executive": false,
+            "salaryDescription": "600€ - 1.100€ Bruto/mes",
+            "multiProvince": false,
+            "urgent": false,
+            "color": false
+        }
+    ]
+}
