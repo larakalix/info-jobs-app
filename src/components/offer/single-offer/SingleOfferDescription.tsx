@@ -10,16 +10,22 @@ export const SingleOfferDescription = ({ offer }: { offer: ISingleOffer }) => {
             <Text>{offer.minRequirements}</Text>
 
             <ul className="grid grid-cols-2 gap-4 mt-4">
-                <li>
-                    <Title className="font-semibold">Referencia</Title>
+                <li className="col-span-2">
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
+                        Referencia
+                    </Title>
                     <Text>{offer.profile?.name}</Text>
                 </li>
                 <li>
-                    <Title className="font-semibold">Categoría</Title>
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
+                        Categoría
+                    </Title>
                     <Text>{offer.category?.value}</Text>
                 </li>
                 <li>
-                    <Title className="font-semibold">Departamento</Title>
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
+                        Departamento
+                    </Title>
                     {!offer.department ? (
                         <Text>No disponible</Text>
                     ) : (
@@ -28,7 +34,9 @@ export const SingleOfferDescription = ({ offer }: { offer: ISingleOffer }) => {
                     <Text>{offer.department}</Text>
                 </li>
                 <li>
-                    <Title className="font-semibold">Salario</Title>
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
+                        Salario
+                    </Title>
                     {!offer.salaryDescription ? (
                         <Text>Salario no disponible</Text>
                     ) : (
@@ -36,11 +44,13 @@ export const SingleOfferDescription = ({ offer }: { offer: ISingleOffer }) => {
                     )}
                 </li>
                 <li>
-                    <Title className="font-semibold">Horario</Title>
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
+                        Horario
+                    </Title>
                     <Text>Jornada {offer.journey?.value}</Text>
                 </li>
                 <li>
-                    <Title className="font-semibold">
+                    <Title className="font-semibold text-sm md:text-base xl:text-lg">
                         Duración del contrato
                     </Title>
                     {!offer.contractDuration ? (

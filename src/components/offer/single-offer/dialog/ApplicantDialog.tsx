@@ -37,14 +37,16 @@ export const ApplicantDialog = ({ offer, questions }: Props) => {
                     <Title>{offer.title}</Title>
                 </header>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    {questions.length === 0 && (
-                        <Text className="text-gray-800">
+                {questions.length === 0 && (
+                    <section className="p-10 flex items-center justify-center text-center">
+                        <Text className="text-gray-800 w-full">
                             No hay preguntas abiertas para esta oferta
                         </Text>
-                    )}
+                    </section>
+                )}
 
-                    {questions.length > 0 && (
+                {questions.length > 0 && (
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         <div className="space-y-4">
                             {Children.toArray(
                                 questions.map(({ id, question }) => (
@@ -63,10 +65,10 @@ export const ApplicantDialog = ({ offer, questions }: Props) => {
                                 ))
                             )}
                         </div>
-                    )}
 
-                    <ApplicantDialogInformation offer={offer} />
-                </div>
+                        <ApplicantDialogInformation offer={offer} />
+                    </div>
+                )}
             </Card>
         </div>
     );

@@ -1,8 +1,8 @@
 import { Children } from "react";
 import Link from "next/link";
-import { formatDistanceToNow } from "date-fns";
-import { es } from "date-fns/locale";
 import { Card, Metric, Subtitle, Text, Title, Badge } from "@tremor/react";
+import { TbUrgent } from "react-icons/tb";
+import { OfferPropertiesList } from "./offer-card/OfferPropertiesList";
 
 import type { IOffer } from "@/types/offer";
 
@@ -18,19 +18,19 @@ export const Offers = ({ offers }: { offers: IOffer }) => {
             </header>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-8">
-                <Card className="flex flex-col items-start justify-center gap-2">
+                <Card className="flex flex-col items-start justify-center gap-2 hover:ring-2 hover:ring-blue-500 transition-shadow">
                     <Metric>{offers.items.length}</Metric>
                     <Text className="block mb-[3px]">Empleos disponibles</Text>
                 </Card>
-                <Card className="flex flex-col items-start justify-center gap-2">
+                <Card className="flex flex-col items-start justify-center gap-2 hover:ring-2 hover:ring-blue-500 transition-shadow">
                     <Metric>0</Metric>
                     <Text className="block mb-[3px]">Ofertas nuevas</Text>
                 </Card>
-                <Card className="flex flex-col items-start justify-center gap-2">
+                <Card className="flex flex-col items-start justify-center gap-2 hover:ring-2 hover:ring-blue-500 transition-shadow">
                     <Metric>0</Metric>
                     <Text className="block mb-[3px]">candidaturas activas</Text>
                 </Card>
-                <Card className="flex flex-col items-start justify-center gap-2">
+                <Card className="flex flex-col items-start justify-center gap-2 hover:ring-2 hover:ring-blue-500 transition-shadow">
                     <Metric>{offers.categories.length}</Metric>
                     <Text>Categorias</Text>
                 </Card>
@@ -39,54 +39,60 @@ export const Offers = ({ offers }: { offers: IOffer }) => {
             <div className="grid grid-cols-1 xl:grid-cols-1 gap-6">
                 {Children.toArray(
                     offers.items.map((offer) => (
-                        <Card id={offer.id}>
-                            <header className="flex flex-col md:flex-row justify-between items-start mb-2">
-                                <div className="flex-2 order-2 md:order-1">
-                                    {offer.urgent && (
-                                        <Badge
-                                            color="orange"
-                                            className="mb-2 rounded-lg"
-                                        >
-                                            Urgente
-                                        </Badge>
-                                    )}
-                                    <Title>{offer.title}</Title>
+                        <Card
+                            id={offer.id}
+                            className="hover:ring-2 hover:ring-blue-500 transition-shadow"
+                        >
+                            <header className="flex flex-col gap-2">
+                                <div className="flex flex-col md:flex-row items-start justify-between">
+                                    <div className="flex flex-[2]">
+                                        <div>
+                                            {offer.urgent && (
+                                                <Badge
+                                                    color="orange"
+                                                    className="mb-2 rounded-lg"
+                                                >
+                                                    <span className="flex items-center gap-1">
+                                                        <TbUrgent className="opacity-90" />
+                                                        Vacante urgente
+                                                    </span>
+                                                </Badge>
+                                            )}
+                                            <Title className="font-bold">
+                                                {offer.title}
+                                            </Title>
+                                            <Text>{offer.author.name}</Text>
+                                        </div>
+                                    </div>
+                                    {offer.salaryMin?.value &&
+                                        offer.salaryMax?.value &&
+                                        offer.salaryPeriod?.value && (
+                                            <span className="text-sm font-bold flex flex-1 justify-end">
+                                                {offer.salaryMin.value} -{" "}
+                                                {offer.salaryMax.value}{" "}
+                                                {offer.salaryPeriod.value}
+                                            </span>
+                                        )}
                                 </div>
-                                <div className="flex flex-wrap items-center justify-end flex-1 gap-2 order-1 md:order-2">
-                                    <Badge color="blue" className="rounded-lg">
-                                        {offer.category.value}
-                                    </Badge>
-                                    <Badge color="green" className="rounded-lg">
-                                        Contrato {offer.contractType.value}
-                                    </Badge>
-                                    <Badge color="green" className="rounded-lg">
-                                        Jornada {offer.workDay.value}
-                                    </Badge>
-                                </div>
-                            </header>
-                            <a
-                                href={offer.author.uri}
-                                target="_blank"
-                            >
-                                <Text>{offer.author.name}</Text>
-                            </a>
 
-                            <Subtitle>
-                                {offer.city}, publicada hace{" "}
-                                {formatDistanceToNow(
-                                    new Date(offer.published),
-                                    { locale: es }
-                                )}
-                            </Subtitle>
+                                <OfferPropertiesList
+                                    city={offer.city}
+                                    published={offer.published}
+                                    category={offer.category.value}
+                                    workDay={offer.workDay.value}
+                                />
+                            </header>
 
                             <Text className="my-4">{offer.requirementMin}</Text>
 
-                            <Link
-                                href={`/offer/${offer.id}`}
-                                className="flex-shrink-0 inline-flex justify-center items-center group focus:outline-none focus:ring-2 focus:ring-offset-2 font-medium rounded-md border shadow-sm py-2 text-sm bg-green-500 border-green-500 focus:ring-green-300 text-white hover:bg-green-600 px-14"
-                            >
-                                Aplicar
-                            </Link>
+                            <footer className="flex items-center justify-end">
+                                <Link
+                                    href={`/offer/${offer.id}`}
+                                    className="flex-shrink-0 inline-flex justify-center items-center group focus:outline-none focus:ring-2 focus:ring-offset-2 font-medium rounded-md border shadow-sm py-2 text-sm bg-blue-500 border-blue-500 focus:ring-blue-300 text-white hover:bg-blue-600 px-14"
+                                >
+                                    Aplicar
+                                </Link>
+                            </footer>
                         </Card>
                     ))
                 )}
@@ -94,27 +100,3 @@ export const Offers = ({ offers }: { offers: IOffer }) => {
         </Card>
     );
 };
-
-// {
-//     id: '74d0c8858b41f58c7327a66d400492',
-//     title: 'Fontanero/a',
-//     province: [Object],
-//     city: 'Zaragoza',
-//     link: 'https://www.infojobs.net/zaragoza/fontanero/of-i74d0c8858b41f58c7327a66d400492',
-//     category: [Object],
-//     contractType: [Object],
-//     subcategory: [Object],
-//     salaryMin: [Object],
-//     salaryMax: [Object],
-//     salaryPeriod: [Object],
-//     experienceMin: [Object],
-//     workDay: [Object],
-//     study: [Object],
-//     published: '2023-05-17T19:50:10.000Z',
-//     updated: '2023-05-17T19:50:10.000Z',
-//     author: [Object],
-//     requirementMin: 'Tener experiencia de 1 año.\r\nResidir cerca a la zona o alrededores.',
-//     bold: false,
-//     applications: '0',
-//     urgent: false
-//   },

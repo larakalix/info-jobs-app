@@ -347,7 +347,7 @@
             "requirementMin": "-You have a BS in Computer Science, Software Engineering, a related academic area.",
             "bold": true,
             "applications": "0",
-            "urgent": false
+            "urgent": true
         },
         {
             "id": "177f778c024bd8a6d870f89e2b364e",
@@ -974,7 +974,7 @@
             "requirementMin": "",
             "bold": false,
             "applications": "0",
-            "urgent": false
+            "urgent": true
         },
         {
             "id": "7a20bb73ea4e21a99b9a67d5e7bd1d",
@@ -1031,7 +1031,7 @@
             "requirementMin": "- Muy valorable la experiencia previa en funciones descritas.",
             "bold": false,
             "applications": "0",
-            "urgent": false
+            "urgent": true
         },
         {
             "id": "fc6e47be424bde8773f4342d6da4df",

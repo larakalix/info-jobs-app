@@ -1,7 +1,9 @@
 import { getOffers } from "@/services/OfferService";
+import { BiCategoryAlt } from "react-icons/bi";
 import { Layout } from "@/components/global/Layout";
 import { Offers } from "@/components/offer/Offers";
 import { Searchbar } from "@/components/offer/search/Searchbar";
+import { Categories } from "@/components/categories/Categories";
 
 import type { IValuable } from "@/types/generic";
 
@@ -16,11 +18,13 @@ export default async function Home() {
 
     return (
         <section className="min-h-screen w-full ml-0 md:ml-60">
-            <Layout links={links} />
+            <Layout links={[]} />
 
             <div className="flex flex-col gap-4 w-full p-4 max-w-full md:max-w-5xl m-auto">
-                <Searchbar />
-                <Offers offers={offers} />
+                <Searchbar links={links} />
+                <div className="flex flex-wrap gap-4">
+                    <Offers offers={offers} />
+                </div>
             </div>
         </section>
     );

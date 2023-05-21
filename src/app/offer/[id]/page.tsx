@@ -23,7 +23,7 @@ export default async function OfferHome({ params: { id } }: Props) {
 
     return (
         <section className="min-h-screen w-full ml-0 md:ml-60">
-            <Layout links={[{ id: "/", value: "Home" }]} />
+            <Layout links={[]} />
 
             <div className="flex flex-col gap-4 w-full p-4 max-w-full md:max-w-5xl m-auto">
                 <Card>

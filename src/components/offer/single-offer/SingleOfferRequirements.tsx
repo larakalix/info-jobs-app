@@ -13,14 +13,14 @@ export const SingleOfferRequirements = ({ offer }: { offer: ISingleOffer }) => {
 
                 <ul className="space-y-4">
                     <li>
-                        <Title className="font-semibold">
+                        <Title className="font-semibold text-sm md:text-base xl:text-lg">
                             Estudios mínimos
                         </Title>
                         <Text>{offer.studiesMin?.value}</Text>
                     </li>
                     {offer.skillsList?.length > 0 && (
                         <li>
-                            <Title className="font-semibold">
+                            <Title className="font-semibold text-sm md:text-base xl:text-lg">
                                 Conocimientos necesarios
                             </Title>
                             <Text>
@@ -31,13 +31,13 @@ export const SingleOfferRequirements = ({ offer }: { offer: ISingleOffer }) => {
                         </li>
                     )}
                     <li>
-                        <Title className="font-semibold">
+                        <Title className="font-semibold text-sm md:text-base xl:text-lg">
                             Experiencia mínima
                         </Title>
                         <Text>{offer.experienceMin?.value}</Text>
                     </li>
                     <li>
-                        <Title className="font-semibold">
+                        <Title className="font-semibold text-sm md:text-base xl:text-lg">
                             Imprescindible residente en
                         </Title>
                         <Text>{offer.residence?.value}</Text>

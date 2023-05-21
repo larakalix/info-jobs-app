@@ -10,8 +10,8 @@ export const SingleOfferHeader = ({ offer }: { offer: ISingleOffer }) => {
     const { toogle } = useSingleOfferStore((state) => state);
 
     return (
-        <header className="flex items-start justify-between gap-4">
-            <div className="flex gap-4">
+        <header className="flex flex-col md:flex-row items-start justify-between gap-4">
+            <div className="flex gap-4 order-2 md:order-1">
                 {offer.profile.logoUrl && (
                     <div className="w-16 h-16 rounded-md overflow-hidden border-2 border-gray-200 mb-4">
                         <img
@@ -28,7 +28,7 @@ export const SingleOfferHeader = ({ offer }: { offer: ISingleOffer }) => {
                     </a>
                 </div>
             </div>
-            <div>
+            <div className="order-1 md:order-2">
                 <Button color="orange" onClick={() => toogle()}>
                     Inscribirme en esta oferta
                 </Button>

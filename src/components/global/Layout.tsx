@@ -4,6 +4,7 @@ import { Children, useRef, useState } from "react";
 import Link from "next/link";
 import clsx from "clsx";
 import { useOnClickOutside } from "usehooks-ts";
+import { BiHomeAlt, BiBuildings, BiBookContent } from "react-icons/bi";
 import { CgMenuLeft, CgClose } from "react-icons/cg";
 import { Logo } from "./Logo";
 
@@ -27,10 +28,10 @@ export const Layout = ({ links }: { links: IValuable<string>[] }) => {
     return (
         <div
             ref={ref}
-            className={`bg-white min-h-[100vh] w-[15rem] max-w-[20rem] p-5 border-r border-main-gray-border absolute md:fixed ${styles} md:left-0 transition-all z-10`}
+            className={`bg-white min-h-[100vh] w-[15rem] max-w-[20rem] p-5 border-r absolute md:fixed ${styles} md:left-0 transition-all z-10`}
         >
             <button
-                className="absolute right-[-2.5rem] cursor-pointer flex md:hidden"
+                className="absolute right-[-2.5rem] cursor-pointer flex md:hidden z-20"
                 onClick={() => setToogle((state) => !state)}
             >
                 {toogle ? (
@@ -44,14 +45,36 @@ export const Layout = ({ links }: { links: IValuable<string>[] }) => {
                 <Link
                     href={`/`}
                     passHref
-                    className="text-main-blue text-[1.5rem] font-semibold"
+                    className="text-main-blue text-[1.5rem] font-semibold flex items-center gap-2"
                 >
                     <Logo />
+                    InfoJobs
                 </Link>
             </small>
 
-            <nav className="mt-7 border-b border-main-gray-border pb-4 mb-4">
+            <nav className="mt-7 pb-4 mb-4">
                 <ol className="space-y-4">
+                    <Link
+                        href="/"
+                        className="bg-transparent text-gray-600 text-base font-medium hover:text-gray-900 w-full p-2 rounded-md text-start flex items-center gap-2"
+                    >
+                        <BiHomeAlt className="text-sm" />
+                        Inicio
+                    </Link>
+                    <Link
+                        href="/"
+                        className="bg-transparent text-gray-600 text-base font-medium hover:text-gray-900 w-full p-2 rounded-md text-start flex items-center gap-2"
+                    >
+                        <BiBuildings className="text-sm" />
+                        Empresas Top
+                    </Link>
+                    <Link
+                        href="/"
+                        className="bg-transparent text-gray-600 text-base font-medium hover:text-gray-900 w-full p-2 rounded-md text-start flex items-center gap-2"
+                    >
+                        <BiBookContent className="text-sm" />
+                        Blog
+                    </Link>
                     {Children.toArray(
                         links.map(({ id, value }) => (
                             <li>

@@ -39,6 +39,7 @@ export type Author = {
     id: string;
     name: string;
     uri: string;
+    logoUrl: string;
 };
 
 export type Category = IValuable<number>;

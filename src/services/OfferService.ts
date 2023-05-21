@@ -10,7 +10,7 @@ const headers = {
 };
 
 export const getOffers = async (): Promise<IOffer> => {
-    const offers: IOffer = JSON.parse(JSON.stringify(json));
+    const offers: IOffer = JSON.parse(JSON.stringify(similarsJson));
     const categories = offers.items.map((item) => item.category);
     offers.categories = Array.from(
         new Set(categories.map((category) => category.id))
@@ -20,7 +20,7 @@ export const getOffers = async (): Promise<IOffer> => {
 };
 
 export const getSimilarOffers = async (id: string): Promise<Item[]> => {
-    const similarOffer: IOffer = JSON.parse(JSON.stringify(similarsJson));
+    const similarOffer: IOffer = JSON.parse(JSON.stringify(json));
     const size = 4;
     const similars = similarOffer.items
         .map((x) => ({ x, r: Math.random() }))

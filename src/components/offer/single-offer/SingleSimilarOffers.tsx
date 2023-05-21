@@ -21,7 +21,10 @@ export const SingleSimilarOffers = ({
                 {Children.toArray(
                     similarOffers.map((offer) => (
                         <Link href={`/offer/${offer.id}`}>
-                            <Card id={offer.id}>
+                            <Card
+                                id={offer.id}
+                                className="hover:ring-2 hover:ring-blue-500 transition-shadow"
+                            >
                                 <header>
                                     <Title className="truncate text-sm">
                                         {offer.title}
